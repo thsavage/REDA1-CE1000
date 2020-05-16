@@ -3,4 +3,4 @@ This repository contains Jupyter notebooks for REDA1-CE1000, the NYUSPS Schack I
 
 The Jupyter notebooks can be redendered from this GitHub repository or from [Project Jypter](https://nbviewer.jupyter.org/).
 
-Materials are subject to development, but this repository will remain live.
+Materials in the repository are subject to development, but the repository will remain live.
